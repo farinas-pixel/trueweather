@@ -1,0 +1,6 @@
+{
+  "name": "TRUEWEATHER",
+  "description": "Intelligent real-time weather intelligence dashboard and 3D atmospheric world experience powered by real Open-Meteo REST APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
